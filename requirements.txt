@@ -1,0 +1,9 @@
+selenium
+pandas
+pyfiglet
+colorlog
+ntplib
+streamlink
+playwright
+psutil
+toml
